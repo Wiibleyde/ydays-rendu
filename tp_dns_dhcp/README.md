@@ -1,6 +1,6 @@
 # TP 1 : DNS DHCP
 
-## 1. Trouvez l’adresse réseau, broadcast, masque sous-réseau, nombre de client possible, plages des clients possibles sur les réseaux suivants 
+### 1. Trouvez l’adresse réseau, broadcast, masque sous-réseau, nombre de client possible, plages des clients possibles sur les réseaux suivants 
 
 - `192.168.0.0/24` : 
   * Adresse réseau : `192.168.0.0`
@@ -15,7 +15,7 @@
   * Nombre de client possible : `16,777,214`
   * Plage des clients possibles : `10.0.0.1 - 10.255.255.254`
 - `172.16.0.0/255.255.0.0172.16.0.0` : 
-  * Adresse réseau : `172.16.0.0`172.16.255.255`
+  * Adresse réseau : `172.16.0.0`
   * Adresse broadcast : `172.16.255.255`
   * Masque sous-réseau : `255.255.0.0`
   * Nombre de client possible : `65,534`
