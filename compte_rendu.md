@@ -4,3 +4,9 @@ Séances :
    Tp sur la mise en place d'un DHCP et de plusieures machines, arrivée jusqu'a l'avant dernière étape.
    * Pour la prochaine séance :
    Version 1 du serveur minecraft avec bungee cord (déjà commencé chez moi)
+   
+ - 09/11/2022 :
+    * Durant cette séance :
+    Poursuite du projet serveur minecraft Bungee Cord (avec des nouveaux bonus)
+    * Pour la prochaine séance :
+    Avancée sur le projet.
