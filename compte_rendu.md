@@ -10,3 +10,10 @@ Séances :
     Poursuite du projet serveur minecraft Bungee Cord (avec des nouveaux bonus)
     * Pour la prochaine séance :
     Avancée sur le projet.
+
+- 23/11/2022 :
+      * Durant cette séance :
+      Avancée sur le projet serveur minecraft Bungee Cord découverte de Docker
+      * Pour la prochaine séance :
+      Mise en place du PC (16go RAM, i7) (que j'ai reçu)
+      Avancée sur la decouverte de Docker
