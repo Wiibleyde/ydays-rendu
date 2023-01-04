@@ -33,3 +33,4 @@ Séances :
       - Résolution du problème du /lobby ou /hub
       - Installtion de luckperms velocity
       - Mise en place du stop and start des serveurs
+      - Intervention d'un dirlab du labo Cyber
