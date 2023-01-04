@@ -26,3 +26,10 @@ Séances :
       - Mise en place d'un serveur fabric (qui ne marche pas encore)
    * Pour la prochaine séance :
       - Avancée sur le serveur fabric
+
+- 04/01/2023 :
+   * Durant cette séance :
+   Avancée sur le projet serveur minecraft :
+      - Résolution du problème du /lobby ou /hub
+      - Installtion de luckperms velocity
+      - Mise en place du stop and start des serveurs
