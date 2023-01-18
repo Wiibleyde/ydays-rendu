@@ -43,6 +43,7 @@ Séances :
       - Changement de Java (openjdk --> GraalVM)
       - Ajout de l'authentification sur les serveurs de Mojang/Microsoft (donc réparation des skins)
    * Durant cette séance :
-      - Mise en place du serveur fabric
       - ~~Révision des permissions après relecture du sujet...~~
       - Ajout d'un plugin de maintenance (qui peux mettre velocity en maintenance ou chaque serveur individuellement)
+      - Configuration du RCON (pour pouvoir stop and start les serveurs proprement)
+      
