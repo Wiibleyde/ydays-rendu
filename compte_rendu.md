@@ -44,4 +44,5 @@ Séances :
       - Ajout de l'authentification sur les serveurs de Mojang/Microsoft (donc réparation des skins)
    * Durant cette séance :
       - Mise en place du serveur fabric
-      - Révision des permissions après relecture du sujet...
+      - ~~Révision des permissions après relecture du sujet...~~
+      - Ajout d'un plugin de maintenance (qui peux mettre velocity en maintenance ou chaque serveur individuellement)
