@@ -34,3 +34,14 @@ Séances :
       - Installtion de luckperms velocity
       - Mise en place du stop and start des serveurs
       - Intervention d'un dirlab du labo Cyber
+
+- 18/01/2023 :
+   * Entre la séance :
+      - Résolution du problème du /lobby ou /hub
+      - Correction des fix du stop and start des serveurs
+      - Changement des modèles de serveurs (du paper --> Miraï)
+      - Changement de Java (openjdk --> GraalVM)
+      - Ajout de l'authentification sur les serveurs de Mojang/Microsoft (donc réparation des skins)
+   * Durant cette séance :
+      - Mise en place du serveur fabric
+      - Révision des permissions après relecture du sujet...
