@@ -53,4 +53,4 @@ Séances :
       - Ajout d'un plugin de maintenance (qui peux mettre velocity en maintenance ou chaque serveur individuellement)
    * Durant cette séance :
       - Présentation du projet
-
+      - Écoute des présentations des autres groupes/étudiants
