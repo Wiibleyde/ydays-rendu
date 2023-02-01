@@ -54,3 +54,4 @@ Séances :
    * Durant cette séance :
       - Présentation du projet
       - Écoute des présentations des autres groupes/étudiants
+      - Présentaion des projets du semestre 2
