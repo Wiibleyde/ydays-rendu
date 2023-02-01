@@ -47,3 +47,10 @@ Séances :
       - Ajout d'un plugin de maintenance (qui peux mettre velocity en maintenance ou chaque serveur individuellement)
       - Configuration du RCON (pour pouvoir stop and start les serveurs proprement)
       
+- 01/02/2023 :
+   * Entre la séance :
+      - Préparation de la présentation
+      - Ajout d'un plugin de maintenance (qui peux mettre velocity en maintenance ou chaque serveur individuellement)
+   * Durant cette séance :
+      - Présentation du projet
+
