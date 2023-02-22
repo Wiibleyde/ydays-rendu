@@ -55,3 +55,11 @@ Séances :
       - Présentation du projet
       - Écoute des présentations des autres groupes/étudiants
       - Présentaion des projets du semestre 2
+
+- 22/02/2023 :
+   * Entre la séance :
+      - Préparation du serveur web python
+      - Début de fonctionnement
+   * Durant cette séance :
+      - Continuation du serveur web python
+      - Mise au point avec membres de mon groupe
