@@ -63,3 +63,12 @@ Séances :
    * Durant cette séance :
       - Continuation du serveur web python
       - Mise au point avec membres de mon groupe
+
+- 22/03/2023 :
+   * Entre la séance :
+      - Server python fonctionnel
+   * Durant cette séance :
+      - Ajout de la gestion des comptes
+      - Ajout de la connexion / enregistrement de compte
+      - Ajout de la création de playlist
+      - Ajout de la gestion des playlist
