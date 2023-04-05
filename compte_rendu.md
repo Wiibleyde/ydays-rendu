@@ -72,3 +72,12 @@ Séances :
       - Ajout de la connexion / enregistrement de compte
       - Ajout de la création de playlist
       - Ajout de la gestion des playlist
+
+- 05/04/2023 :
+   * Entre la séance :
+      - Euh... pas grand chose
+   * Durant cette séance :
+      - Refonte de la gestion des compte : (passage de json à sqlite)
+      - Un peu front-end
+      - Mise en commun avec le groupe de projet (car ils étaient en présentiel)
+      
